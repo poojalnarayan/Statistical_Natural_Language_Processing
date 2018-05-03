@@ -1,0 +1,159 @@
+loading training data
+embedding matrix shape: (10001, 300)
+344  fold size of a 10-Fold Cross validation
+len(test_l)=  344  len(train_labels)=  3093  fold_sz=  344
+train_tokens len =  3093 train_labels len = 3093
+Starting epoch: 1
+Train loss after epoch: 1 loss: 2.4110669702
+Epoch 1 Time Taken: 343.664829
+Starting epoch: 2
+Train loss after epoch: 2 loss: 2.58369597223
+Epoch 2 Time Taken: 331.348844
+Training Completed. Time taken: 675.0144300000001
+Saving model in /work/pooja/dynet-base/email_impersonation_detection/model
+Done!
+Evaluating the saved model: "/work/pooja/dynet-base/email_impersonation_detection/model" on the test data
+Loading the model ..
+Done!
+Email overall accuracy : 18.8953488372093
+len(test_l)=  344  len(train_labels)=  3093  fold_sz=  344
+train_tokens len =  3093 train_labels len = 3093
+Starting epoch: 1
+Train loss after epoch: 1 loss: 1.96139922201
+Epoch 1 Time Taken: 341.36745899999994
+Starting epoch: 2
+Train loss after epoch: 2 loss: 1.61961218562
+Epoch 2 Time Taken: 340.84354400000007
+Training Completed. Time taken: 682.211947
+Saving model in /work/pooja/dynet-base/email_impersonation_detection/model
+Done!
+Evaluating the saved model: "/work/pooja/dynet-base/email_impersonation_detection/model" on the test data
+Loading the model ..
+Done!
+Evaluating the saved model: "/work/pooja/dynet-base/email_impersonation_detection/model" on the test data                        [86/1966]
+Loading the model ..
+Done!
+Email overall accuracy : 51.74418604651163
+len(test_l)=  344  len(train_labels)=  3093  fold_sz=  344
+train_tokens len =  3093 train_labels len = 3093
+Starting epoch: 1
+Train loss after epoch: 1 loss: 1.74622147302
+Epoch 1 Time Taken: 333.28117900000007
+Starting epoch: 2
+Train loss after epoch: 2 loss: 1.49092806453
+Epoch 2 Time Taken: 335.7136340000002
+Training Completed. Time taken: 668.9954829999999
+Saving model in /work/pooja/dynet-base/email_impersonation_detection/model
+Done!
+Evaluating the saved model: "/work/pooja/dynet-base/email_impersonation_detection/model" on the test data
+Loading the model ..
+Done!
+Email overall accuracy : 58.139534883720934
+len(test_l)=  344  len(train_labels)=  3093  fold_sz=  344
+train_tokens len =  3093 train_labels len = 3093
+Starting epoch: 1
+Train loss after epoch: 1 loss: 1.70690312071
+Epoch 1 Time Taken: 340.9444060000001
+Starting epoch: 2
+Train loss after epoch: 2 loss: 1.38443136181
+Epoch 2 Time Taken: 341.1760039999999
+Training Completed. Time taken: 682.1210539999997
+Saving model in /work/pooja/dynet-base/email_impersonation_detection/model
+Done!
+Evaluating the saved model: "/work/pooja/dynet-base/email_impersonation_detection/model" on the test data
+Loading the model ..
+Done!
+Email overall accuracy : 57.55813953488372
+len(test_l)=  344  len(train_labels)=  3093  fold_sz=  344
+train_tokens len =  3093 train_labels len = 3093
+Starting epoch: 1
+Train loss after epoch: 1 loss: 1.61072770724
+Epoch 1 Time Taken: 349.1477060000002
+Starting epoch: 2
+Train loss after epoch: 2 loss: 1.33687569873                                                                                         [46/1966]
+Epoch 2 Time Taken: 350.9792480000001
+Training Completed. Time taken: 700.1276169999996
+Saving model in /work/pooja/dynet-base/email_impersonation_detection/model
+Done!
+Evaluating the saved model: "/work/pooja/dynet-base/email_impersonation_detection/model" on the test data
+Loading the model ..
+Done!
+Email overall accuracy : 64.24418604651163
+len(test_l)=  344  len(train_labels)=  3093  fold_sz=  344
+train_tokens len =  3093 train_labels len = 3093
+Starting epoch: 1
+Train loss after epoch: 1 loss: 1.50338455353
+Epoch 1 Time Taken: 341.2547749999999
+Starting epoch: 2
+Train loss after epoch: 2 loss: 1.26584097941
+Epoch 2 Time Taken: 342.9246680000001
+Training Completed. Time taken: 684.1800319999998
+Saving model in /work/pooja/dynet-base/email_impersonation_detection/model
+Done!
+Evaluating the saved model: "/work/pooja/dynet-base/email_impersonation_detection/model" on the test data
+Loading the model ..
+Done!
+Email overall accuracy : 65.98837209302324
+len(test_l)=  344  len(train_labels)=  3093  fold_sz=  344
+train_tokens len =  3093 train_labels len = 3093
+Starting epoch: 1
+Train loss after epoch: 1 loss: 1.41423330043
+Epoch 1 Time Taken: 347.15129799999977
+Starting epoch: 2
+Train loss after epoch: 2 loss: 1.20102546637
+Epoch 2 Time Taken: 347.8356049999993
+Training Completed. Time taken: 694.987521
+Saving model in /work/pooja/dynet-base/email_impersonation_detection/model
+Done!
+Evaluating the saved model: "/work/pooja/dynet-base/email_impersonation_detection/model" on the test data
+Loading the model ..
+Done!
+Email overall accuracy : 60.46511627906976
+len(test_l)=  344  len(train_labels)=  3093  fold_sz=  344
+train_tokens len =  3093 train_labels len = 3093                                                                                       [6/1966]
+Starting epoch: 1
+Train loss after epoch: 1 loss: 1.40035931462
+Epoch 1 Time Taken: 351.4276719999998
+Starting epoch: 2
+Train loss after epoch: 2 loss: 1.15517925322
+Epoch 2 Time Taken: 352.0499669999999
+Training Completed. Time taken: 703.4782619999996
+Saving model in /work/pooja/dynet-base/email_impersonation_detection/model
+Done!
+Evaluating the saved model: "/work/pooja/dynet-base/email_impersonation_detection/model" on the test data
+Loading the model ..
+Done!
+Email overall accuracy : 65.98837209302324
+len(test_l)=  344  len(train_labels)=  3093  fold_sz=  344
+train_tokens len =  3093 train_labels len = 3093
+Starting epoch: 1
+Train loss after epoch: 1 loss: 1.33324460254
+Epoch 1 Time Taken: 353.94744999999966
+Starting epoch: 2
+Train loss after epoch: 2 loss: 1.12430388285
+Epoch 2 Time Taken: 355.24029599999994
+Training Completed. Time taken: 709.1883529999996
+Saving model in /work/pooja/dynet-base/email_impersonation_detection/model
+Done!
+Evaluating the saved model: "/work/pooja/dynet-base/email_impersonation_detection/model" on the test data
+Loading the model ..
+Done!
+Email overall accuracy : 66.86046511627907
+len(test_l)=  341  len(train_labels)=  3096  fold_sz=  344
+train_tokens len =  3096 train_labels len = 3096
+Starting epoch: 1
+Train loss after epoch: 1 loss: 1.31538434015
+Epoch 1 Time Taken: 352.5036419999997
+Starting epoch: 2
+Train loss after epoch: 2 loss: 0.980433869578
+Epoch 2 Time Taken: 350.6707630000001
+Training Completed. Time taken: 703.1749660000005
+Saving model in /work/pooja/dynet-base/email_impersonation_detection/model
+Done!
+Evaluating the saved model: "/work/pooja/dynet-base/email_impersonation_detection/model" on the test data
+Loading the model ..
+Done!
+Email overall accuracy : 75.65982404692082
+Average over 10 folds =  58.55435449771534
+(dynet) pooja@clara:/net/kate/storage/work/pooja/dynet-base/dynet_tutorial/notebooks$ 
+

@@ -1,0 +1,309 @@
+	mark.taylor@enron.com, hideo.ohta@bakernet.com, day@enron.com
+	mark.taylor@enron.com, hideo.ohta@bakernet.com, day@enron.com
+
+In view of the importance of this issue it is desirable to deal with it in
+detail.
+
+1.  The Issue
+
+The essential issue we are focussing on is that set out in my email of May 12,
+i.e. the need to avoid the possibility of a counterparty being able to claim
+that the transaction is not binding because:
+
+(a) it was outside the company's business purposes, or
+(b) execution of the application was not authorized.
+
+This issue is not unique to Japan
+
+There is no question as to any specific Japanese laws impacting on the trading
+of any of the products through the internet, including issues as to 
+contractual
+enforceability of contracts entered into via the internet, on which we advised
+on 15 March.  A copy of that advice is attached to the bottom of this email.
+
+Neither is there any question, if the above issue is resolved, of the 
+Electronic
+Trading Agreement and General Terms and Conditions forming part of the 
+contract.
+(We understand Mark Taylor to be concerned on this aspect.)
+
+2.  Enron's Practice re EOL
+
+Our understanding is that:
+
+* Potential customers have been sent the password application under cover
+of a letter from Joseph Hirl inviting them to complete the application.  
+Neither
+the letter nor the application form indicate who is expected to sign the form.
+
+* Completed applications are reviewed by Enron primarily from a credit
+standpoint but also, we understand from Mark Taylor, to quickly confirm the
+authority of the signer (by e.g. in the case of a U.S. counterparty, checking 
+if
+the signatory shows the title "director" alongside his name).
+
+* If satisfied, Enron then signs the acceptance part of the application
+and issues a password.
+
+* Four applications had been received regarding Japan as of 11am today and
+none has yet been approved.
+
+3.  Business Purposes
+
+Article 43 of the Civil Code provides that a juristic person has rights and
+obligations in accordance with law and the business purposes specified in its
+constituent documents.  Where a corporation enters into a contract outside its
+business purposes, the contract is prima facie void.
+
+However, if the counterparty did not know that the contract was beyond the 
+power
+of the corporation, and was not negligent in failing to know such fact, the
+contract will be enforced under Article 110 of the Civil Code.
+
+The most prudent practice would be for Enron to obtain a copy of the
+counterparty's business purposes (certified by the Legal Affairs Bureau or by 
+a
+representative director) and form a view on whether the proposed transaction
+falls within those purposes.
+
+However, since Japanese companies' business purposes, after listing a limited
+number of specific purposes, generally include a final item along the lines of
+"all incidental or ancillary business", it is common for companies to not make
+this inquiry except in the most major contracts.
+
+With respect to statutory corporations, however, care is required because 
+often
+their business purposes are in fact limited.
+
+Accordingly, a rule of thumb solution would be: if the counterparty name does
+not contain "Kabushiki Kaisha" or "Yugen Gaisha" at the end of the name, to 
+make
+further inquiries.
+
+4.  Authority to Bind the Company - The Law
+
+The position in Japan is similar to that in a number of other countries in the
+sense that:
+
+(a)  Deemed Authority
+
+The law provides for a form of execution which, if followed, entitles a party 
+to
+presume that the company is bound.  In Japan, this involves the execution of a
+contract by the company's "representative director".  This corresponds to the
+presumption concerning the affixing of the company seal in some states of the 
+US
+and in the UK, and the execution of the contract by 2 directors in Australia.
+
+It is possible for the powers of the representative director to be restricted 
+by
+law or the constituent documents of the corporation. (Article 53 of the Civil
+Code) but if the counterparty did not know of such restriction, the contract 
+is
+still binding on the company.
+
+(b)  Apparent Authority
+
+In common, with other countries, Japan has a concept of apparent authority.
+Article 262 of the Commercial Code provides:
+
+ "A company shall be liable to a bona fide third party for any act done
+by a director invested with any title such as president, vice president,
+executive director or managing director from which it may be assumed that he 
+has
+authority to represent the company, even in cases where the person has no 
+power
+of representation."
+
+Articles 37 and 38 of the Commercial Code extend the same concept to "general
+managers" (so shihainin).  It is generally considered that Article 43 then
+applies the concept to "an employee who has been entrusted with certain types 
+of
+matters or specific matters."
+
+Accordingly, in addition to persons having the titles listed in Article 262
+(above), the general view is that persons having titles such as general 
+manager
+and division manager (bucho), will be deemed to have the authority to 
+represent
+the company for normal transactions within the particular areas of the 
+company's
+business for which they are responsible.
+
+It is also likely that section managers (kacho) or section chiefs (kakaricho)
+have power to bind the company to a certain extent in areas for which they are
+responsible.
+
+(e)  Holding Out
+
+Even if an employee of the company is acting outside his actual authority, if
+the company has held the employee out as having authority, the company will be
+bound by his/her action.
+
+5.  Practical Considerations
+
+In formulating an approach for Enron to take on the basis of the above law, 
+the
+following factors are relevant:
+
+(a)  Practice regarding Representative Director Seal
+
+It is common for a counterparty to seek to take the advantage of the 
+presumption
+referred to in 4(a) above by requiring the representative director's corporate
+seal to be affixed (and, if contract is in English, for him to sign) or  to
+insist on tracing the "chain of authority" of the signatory up to the
+representative director (e.g. by power of attorney), for major or unusual
+transactions.
+
+(b)  Size of Transaction
+
+The question is what transactions fall into the "major" or "unusual" category.
+
+Unfortunately the cases on this do not allow a clear line to be drawn.  As in
+many other countries, the answer depends on factors such as those noted in 
+(c),
+(d) and (e) below, which vary company by company.
+
+Accordingly, where the contract involves (or could involve) a considerable
+ongoing exposure by the company, Japanese corporations would not be surprised 
+to
+be asked for the signatory to be at a certain level, or for written 
+confirmation
+of the signatory's authority to be obtained from a person at such level.
+
+(c)  Size of Company
+
+While it would be prudent and normal to insist upon the representative
+director's seal being affixed to a contract of the present type in the case 
+of a
+smaller company, it would not be normal practice to so insist in the case of a
+major company such as a bank or major trading company counterparty, in which
+companies lower level employees are presumed to have greater authority.
+
+(d)  Business Department of Signatory
+
+The counterparty is more likely to be bound under the apparent authority
+doctrine if the signatory is in (and carries a title which refers to) the
+relevant business department (e.g. energy), than if he is not.
+
+(e)  Degree of Exposure
+
+To the extent that the online products to be made available are likely to 
+expose
+the counterparty to considerable liability, the possibility of a counterparty 
+in
+the future disclaiming liability should not be discounted and would warrant a
+reasonably conservative approach.
+
+(f)  Recent History
+
+However, even when faced with considerable losses during the recent economic
+crisis, Japanese companies (at least major companies) have not generally
+attempted to use lack of authority as a defense, presumably because of
+reputation considerations.
+
+(g) Identity of Addressee
+
+The title of the person to whom the invitation letter is sent may be relevant.
+For example, if it was sent to the General Manager of the relevant department,
+but the application came from a section chief, there would be strong argument
+that the company had held the section chief out as having the necessary
+authority.
+
+(h)  Internal Procedures
+
+Since the law concerning execution by a representative director can be
+considered to broadly correspond to the law concerning execution under seal in
+some countries, and by two directors in for example Australia, the Japanese
+rules are not out of line with those of other countries.
+
+Accordingly, it should be necessary for Enron to take a more stringent 
+approach
+to Japan in this respect than it does in marketing the same products in other
+countries.  The procedures in place for other countries may be sufficient for
+Japan as well, although some adjustment will need to be made for Japan's 
+unique
+regime of company titles.
+
+6.  Conservative Approach
+
+If the online transactions are treated as a major or unusual transaction for 
+the
+counter-party, under common practice Enron would require:
+
+* The application to be executed under the registered seal of (and counter
+signed by) a representative director, or by a person who is able to produce
+documentation showing a line of authority originating with a representative
+director.
+
+* A certified copy of the seal register.
+
+* A certified copy of the register of the company issued by the Legal
+Affairs Bureau, to confirm the business purposes and the identity of the
+representative director.
+
+7.  Less Conservative Approach
+
+Major Companies
+
+For major Japanese trading companies, banks, insurance companies and other
+companies of equivalent size, the following approach could be adopted which
+would not be out of line with market practice:
+
+* The application to be executed by a manager (or general manager)(bucho)
+of the relevant department or above, or
+
+* By a person able to establish a line of authority from such party.
+
+A more aggressive approach would involve accepting applications signed by a
+person at the level of section manager (kacho) or section chief (kakaricho), 
+but
+this is right "on the line" and we would prefer Enron to do so only if there 
+is
+some history of dealings with the company or other evidence to back up an
+apparent authority argument.
+
+Smaller Companies
+
+For other companies the approach would be as set out in 6. above.
+
+Perhaps your credit control procedures could be used to set a benchmark for
+dividing between small and large companies.
+
+8.  Likely Response of Target  Companies
+
+Your marketing experts will be in a better position than us to form a view 
+but,
+taking into account Japanese commercial practice, we do not believe any 
+company
+is likely to be offended if Enron responds along the above lines to an
+application signed by a person who does not meet the above suggested approach,
+particularly taking into account that the approach is not inconsistent with 
+the
+correspondence and application form the companies have been sent and no
+applications have yet been approved.
+
+Regards
+
+Paul Davis/Hideo Ohta
+
+__________________________________
+Baker & McKenzie Advice of 15 March 2000
+
+Dear Mark:
+
+I refer to you e-mail of March 3 sent to my partner, Paul Davis.  I am in 
+charge
+of our Information Technology/E-Commerce Dept.  Please accept my apology for 
+not
+having responded earlier.
+
+Please see our comments below.
+
+Should you have any questions, please let us know.
+
+Best regards,
+Yasuyoshi Goto
+
+>
